@@ -9,7 +9,7 @@ Each file is a small, self-contained program that can be run in the terminal.
 
 Each task contains:
 - `main.py` – Python File
-- `README.md` – Objective, Concepts Used, Code Explanation
+- `README.md` – Objective, Concepts Used
 
 ---
 
