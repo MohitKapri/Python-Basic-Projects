@@ -15,5 +15,5 @@ The user just needs to enter their **UPI ID**, and the program will create QR co
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/upi-qr-code-generator.git
+   git clone https://github.com/your-MohitKapri/upi-qr-code-generator.git
 
