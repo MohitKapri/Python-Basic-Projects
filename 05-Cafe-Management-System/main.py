@@ -53,6 +53,5 @@ if another_item == "Yes":
     else:
         print("The item you want to add is currently unavaliable in our cafe")
 
-if another
-
 print(f"The amount you have to pay is {order_total}")
+
