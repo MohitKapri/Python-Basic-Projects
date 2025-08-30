@@ -38,7 +38,8 @@ def task():
             print(f"Total tasks = {tasks}")
 
         elif operations == 5:
-            print("Close the program")
+            print("Thank you for using our Task-Management-App")
             break
 
 task()
+
